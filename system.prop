@@ -1,5 +1,7 @@
 # Graphics
 ro.sf.lcd_density=320
+ro.product.device=hayabusa
+ro.product.model=hayabusa
 
 # Scheduler
 sys.io.scheduler=fiops
